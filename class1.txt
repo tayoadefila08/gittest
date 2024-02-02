@@ -1,0 +1,15 @@
+echo -
+ls - lists files on a folder/repository/directory (non-hidden files)
+(ls - a)
+cd - change directory
+cat -
+touch -
+code -
+git clone -
+git add - saves/stages changes for a commit locally
+git add . - stages all changes locally
+git add *file name* - stages changes on a specific file
+git commit - stages a version of your work locally
+git commit -m - to state a message for a commit (all commits should have a message)
+git push -
+git pull - 
