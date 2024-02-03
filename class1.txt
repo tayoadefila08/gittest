@@ -1,15 +1,15 @@
-echo -
+echo - is used to input text in a file
 ls - lists files on a folder/repository/directory (non-hidden files)
-(ls - a)
+(ls - a)- lists all files in a repository (also hidden files)
 cd - change directory
-cat -
-touch -
-code -
-git clone -
+cat - lists contents of a file
+touch - used to create files in a repository
+code - used to create a file in vscode
+git clone - used to copy/clone a repository/folder on the github cloud to your local system
 git add - saves/stages changes for a commit locally
 git add . - stages all changes locally
 git add *file name* - stages changes on a specific file
 git commit - stages a version of your work locally
 git commit -m - to state a message for a commit (all commits should have a message)
-git push -
-git pull - 
+git push - stages all changes made on your device (locally) to the github cloud (online)
+git pull - extracts changes made on the github cloud (online) to a device (locally)
