@@ -1,10 +1,11 @@
 echo - is used to input text in a file
 ls - lists files on a folder/repository/directory (non-hidden files)
-(ls - a)- lists all files in a repository (also hidden files)
+(ls -a)- lists all files in a repository (also hidden files)
 cd - change directory
 cat - lists contents of a file
 touch - used to create files in a repository
-code - used to create a file in vscode
+code *file name*- used to open a file in a folder/repo in vscode
+code . - opens all files in a repo/folder on vscode
 git clone - used to copy/clone a repository/folder on the github cloud to your local system
 git add - saves/stages changes for a commit locally
 git add . - stages all changes locally
